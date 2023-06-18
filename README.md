@@ -8,10 +8,8 @@ Provides API for parsing XML files
 
 Forked repository for compatibility with sampctl
 
-```
 ~~http://forum.sa-mp.com/showthread.php?t=150755~~  
-https://sampforum.blast.hk/showthread.php?tid=150755
-```
+https://sampforum.blast.hk/showthread.php?tid=150755  
 (Backup of an outdated thread with outdated code. Archive purposes only)
 
 ## Installation
