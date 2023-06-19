@@ -1,6 +1,6 @@
 # samp-plugin-xml
 
-![Static Badge](https://img.shields.io/badge/sampctl-samp--plugin--xml-blue)
+[![sampctl](https://img.shields.io/badge/sampctl-samp--plugin--xml-2f2f2f.svg?style=for-the-badge)](https://github.com/marevin/samp-plugin-xml)
 
 XML plugin for SA-MP server  
 Provides API for parsing XML files  
